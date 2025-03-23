@@ -1,9 +1,3 @@
-"""Formatters for WebDOM Extractor.
-
-This module provides functionality to convert extracted HTML content
-to different output formats including Markdown, plain text, and JSON.
-"""
-
 import enum
 import json
 import logging
