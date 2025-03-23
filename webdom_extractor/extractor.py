@@ -1,9 +1,3 @@
-"""Core content extraction functionality for WebDOM Extractor.
-
-This module provides the Extractor class, which is responsible for extracting
-clean, readable content from web pages using the Postlight Parser.
-"""
-
 import asyncio
 import hashlib
 import json
