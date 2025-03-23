@@ -1,6 +1,5 @@
 # WebDOM Extractor
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Python](https://img.shields.io/badge/python-3.7%2B-blue)
 ![Tests](https://img.shields.io/badge/tests-passing-brightgreen)
 ![Coverage](https://img.shields.io/badge/coverage-92%25-brightgreen)
@@ -151,10 +150,6 @@ Contributions are welcome! Please check the [CONTRIBUTING.md](CONTRIBUTING.md) f
 3. Commit your changes (`git commit -m 'Add amazing feature'`)
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
